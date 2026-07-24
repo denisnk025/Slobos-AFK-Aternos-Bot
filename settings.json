@@ -24,7 +24,7 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true,
+      "sneak": true
     },
     "chat-messages": {
       "enabled": true,
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "Fun fact: 4b4t is runing on aternos",
-        "Fun fact: Im not the reall mooomoooo ",
-        "Did you know that there was an server called 4b4t before but it got shut down and now this is 4b4t"
+        "Fun fact: Im not the reall moooomoooo ",
+        "Fun fact: there was an server called 4b4t before but it got shut down and now this is the new 4b4t"
       ]
     },
     "chat-log": true,
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 1
+      "interval": 1000
     }
   },
   "modules": {
